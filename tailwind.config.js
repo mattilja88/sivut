@@ -11,6 +11,11 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ['Roboto', 'sans-serif'],
+        serif: ['Merriweather', 'serif'], 
+        mono: ['Menlo', 'Monaco', 'monospace'], 
+      },
     },
   },
   plugins: [],
